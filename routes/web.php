@@ -12,8 +12,13 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+  return view('welcome');
 });
+
+  Route::get('/event', function () {
+    return view('layouts.site.event');
+  });
+  
 
 Route::get('admin', 'Backend\AdminController@index');
 
