@@ -41,63 +41,70 @@
                 </div>
             </header>
             <section>
-                <div id="cal1"></div>
-            </section>
-            <section>
-                <div class="row">
-                    <div class="card col s4 medium">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="http://materializecss.com/images/office.jpg">
+                <div class="paralax">
+                    <img src="#">
+                </div>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="#">
                         </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-                            <p><a href="#">This is a link</a></p>
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="#">This is a link</a>
-                            <a href="#">This is a link</a>
-                        </div>
-                    </div>
-                    <div class="card col s4 medium">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="http://materializecss.com/images/office.jpg">
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-                            <p><a href="#">This is a link</a></p>
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="#">This is a link</a>
-                            <a href="#">This is a link</a>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <ul>
+                                    <li class="#"><a href="#"> Заголовок События</a></li>
+                                    <li class="#"><a href="#">тип категории</a></li>
+                                </ul>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>Дата начала</li>
+                                        <li>Место</li>
+                                        <li>Для кого</li>
+                                        <li>Инфо</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>Дата конца</li>
+                                        <li>Где</li>
+                                        <li>Цена</li>
+                                        <li>Инфо</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="card col s4 medium">
-                        <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="http://materializecss.com/images/office.jpg">
+
+
+                    <div class="row">
+                        <div class="col=md-6">
+                            <button>Добавить в календарь</button>
+                            <div class="col=md-6">
+                                <ul>
+                                    <li>Fasebook</li>
+                                    <li>Vkontakte</li>
+                                    <li>Odnoklassniki</li>
+                                    <li>Twitter</li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="card-content">
-                            <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-                            <p><a href="#">This is a link</a></p>
-                        </div>
-                        <div class="card-reveal">
-                            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-                            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="#">This is a link</a>
-                            <a href="#">This is a link</a>
-                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid aperiam architecto delectus enim error, ex id laboriosam laborum maxime nobis non officiis perspiciatis quam quasi similique sint suscipit voluptatum.
+                        </p>
+                        <video>
+                            <source src="URL">
+                        </video>
                     </div>
                 </div>
+
+
             </section>
+
             <footer>
 
             </footer>
