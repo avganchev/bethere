@@ -41,16 +41,13 @@
                 </div>
             </header>
             <section>
-                <div class="paralax">
-                    <img src="#">
-                </div>
 
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col m6">
                             <img src="#">
                         </div>
-                        <div class="col-md-6">
+                        <div class="col m6">
                             <div class="row">
                                 <ul>
                                     <li class="#"><a href="#"> Заголовок События</a></li>
@@ -58,7 +55,7 @@
                                 </ul>
                             </div>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col m6">
                                     <ul>
                                         <li>Дата начала</li>
                                         <li>Место</li>
@@ -66,7 +63,7 @@
                                         <li>Инфо</li>
                                     </ul>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col m6">
                                     <ul>
                                         <li>Дата конца</li>
                                         <li>Где</li>
@@ -80,28 +77,28 @@
 
 
                     <div class="row">
-                        <div class="col=md-6">
+                        <div class="col m6">
                             <button>Добавить в календарь</button>
-                            <div class="col=md-6">
-                                <ul>
-                                    <li>Fasebook</li>
-                                    <li>Vkontakte</li>
-                                    <li>Odnoklassniki</li>
-                                    <li>Twitter</li>
-                                </ul>
-                            </div>
+                        </div>
+                        <div class="col m6">
+                            <ul>
+                                <li>Fasebook</li>
+                                <li>Vkontakte</li>
+                                <li>Odnoklassniki</li>
+                                <li>Twitter</li>
+                            </ul>
                         </div>
                     </div>
-                    
+
                     <div class="row">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid aperiam architecto delectus enim error, ex id laboriosam laborum maxime nobis non officiis perspiciatis quam quasi similique sint suscipit voluptatum.
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid aperiam architecto delectus enim error, ex id laboriosam laborum
+                            maxime nobis non officiis perspiciatis quam quasi similique sint suscipit voluptatum.
                         </p>
                         <video>
                             <source src="URL">
                         </video>
                     </div>
                 </div>
-
 
             </section>
 
